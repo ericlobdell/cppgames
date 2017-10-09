@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringTester", "StringTeste
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HerosInventory", "HerosInventory\HerosInventory.vcxproj", "{BC3A98C0-B366-463C-83CA-08EFAC069960}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordJumble", "WordJumble\WordJumble.vcxproj", "{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{BC3A98C0-B366-463C-83CA-08EFAC069960}.Release|x64.Build.0 = Release|x64
 		{BC3A98C0-B366-463C-83CA-08EFAC069960}.Release|x86.ActiveCfg = Release|Win32
 		{BC3A98C0-B366-463C-83CA-08EFAC069960}.Release|x86.Build.0 = Release|Win32
+		{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}.Debug|x64.ActiveCfg = Debug|x64
+		{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}.Debug|x64.Build.0 = Debug|x64
+		{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}.Debug|x86.Build.0 = Debug|Win32
+		{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}.Release|x64.ActiveCfg = Release|x64
+		{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}.Release|x64.Build.0 = Release|x64
+		{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}.Release|x86.ActiveCfg = Release|Win32
+		{B38771F5-E4E4-4DDE-8427-5BED98CF99EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
